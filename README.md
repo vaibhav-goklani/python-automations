@@ -27,3 +27,4 @@ This Python script merges multiple PDF files into a single PDF document. It util
 ### 3. Password CLI
 
 A simple single-file Python CLI that stores everything locally in a single encrypted file using your master password. It uses cryptography (Fernet) with a strong KDF (PBKDF2-HMAC-SHA256) and per-vault salt. The entire vault (a JSON dictionary) is encrypted as one blob.
+[Read More](https://github.com/vaibhav-goklani/Python-Automations/blob/main/03-Password-CLI/README.md)
