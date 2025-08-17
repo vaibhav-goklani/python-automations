@@ -16,3 +16,4 @@ if __name__ == "__main__":
     print("Merging PDFs...")
     merge()
     print("Done!!!")
+    print("Merged PDF saved as 'merged.pdf'.")
