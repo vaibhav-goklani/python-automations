@@ -190,21 +190,6 @@ After decryption, the plaintext JSON has the structure:
 - The entire vault is encrypted as one blob — any change requires re‑encrypting/writing the whole vault.
 - No password history, tags, or search — only exact name lookups.
 - No clipboard integration or auto‑type features.
-- Consider adding optional Argon2 KDF, built‑in migration, or integration with OS keyrings as future improvements.
-
----
-
-## Contributing
-
-Contributions, bug reports and suggestions are welcome. Please open an issue or submit a PR on GitHub.
-
-When contributing, ensure your changes preserve the security model and write tests for new functionality.
-
----
-
-## License
-
-Pick an appropriate license for your project (MIT, Apache‑2.0, etc.).
 
 ---
 
